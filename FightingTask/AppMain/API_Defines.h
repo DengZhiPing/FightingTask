@@ -9,5 +9,6 @@
 #ifndef API_Defines_h
 #define API_Defines_h
 
+#define GITHUB @"hello world"
 
 #endif /* API_Defines_h */
