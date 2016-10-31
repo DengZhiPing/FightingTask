@@ -1,0 +1,6 @@
+framework module Pods_FightingTask {
+  umbrella header "Pods-FightingTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
